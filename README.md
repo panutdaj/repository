@@ -1,0 +1,2 @@
+# repository
+class copilot
